@@ -1,0 +1,14 @@
+[windows]
+rootDir = "C:\\Users\\ljl\\GoglandProjects\\src\\questions"
+port = "8000"
+dbdebug = true
+
+[osx]
+rootDir = "/Users/duyong/go/src/question-answer"
+port = "8000"
+dbdebug = true
+
+[linux]
+rootDir = ""
+port = "8000"
+dbdebug = false
